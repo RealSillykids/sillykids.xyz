@@ -16,63 +16,26 @@
         font-family: Comic Sans MS; 
     }
     
-      .creamyintro {
-        font-family: Comic Sans MS;
-    }
-    
       .creamyintro2 {
         font-family: Comic Sans MS;
         font-weight: bold
     }
     
-      .creamyintro3 {
-        font-family: Comic Sans MS;
-    }
-      .one {
+      .number {
         font-family: Comic Sans MS;
         font-weight: bold;
         font-size: 60px;
     }
     
-      .clam { 
+      .smallhead { 
         font-family: Comic Sans MS; 
         font-size: 30px
     }
     
-      .clam2 {
+      .default {
         font-family: Comic Sans MS;
     }
-    
-      .two {
-        font-family: Comic Sans MS;
-        font-weight: bold;
-        font-size: 60px;
-    }
-    
-      .cream { 
-        font-family: Comic Sans MS; 
-        font-size: 30px
-    }
-    
-      .cream2 {
-        font-family: Comic Sans MS;
-    }
-    
-      .three {
-        font-family: Comic Sans MS;
-        font-weight: bold;
-        font-size: 60px;
-    }
-    
-      .do { 
-        font-family: Comic Sans MS; 
-        font-size: 30px
-    }
-    
-      .do2 {
-        font-family: Comic Sans MS;
-    }
-    
+
       .Gar {
         border-top-style: none;
         border-right-style: none;
@@ -82,15 +45,11 @@
         padding-bottom: 20px
     }
     
-      .Videotiym {
-        font-family: Comic Sans MS;
-      }
-    
-      .Snack {
+      .defaultmargin {
         font-family: Comic Sans MS;
         margin-top: 30px
         
-      }
+    }
     
       .button {
         border: none;
@@ -108,13 +67,18 @@
       .snack {
         background-color: #2f6da1;
         color: white;
-        border: 2px solid #173651;
+        border-right: 7px solid #173651;
+        border-bottom: 7px solid #173651;
+        border-radius: 10px;
+        margin: 4px 2px;
+        
     }
 
       .snack:hover {
         background-color: #663c96;
         color: white;
         border: 2px solid #663c96;
+        margin: 6px 4px;
     }
     
        .about {
@@ -128,12 +92,6 @@
         color: white;
         border: 2px solid #663c96;
     }
-    
-      .About {
-        font-family: Comic Sans MS;
-        margin-top: 30px
-        
-      }
     
        .trash {
         background-color: #545454;
